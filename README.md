@@ -1,27 +1,28 @@
-# ⚖️ LexAI | AI Legal Safety Gauge
-**Foundry Project 1/6 by [Babylon Technologies](https://nehemiah.is-a.dev)**
+# 🏛️ Babylon Technologies | The Foundry
+**Building 6 AI-Powered Products in 60 Days.**
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Groq Llama-3](https://img.shields.io/badge/AI-Llama--3%20(Groq)-orange)](https://groq.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Welcome to the central hub of Babylon Technologies. This is a high-velocity venture studio focused on shipping production-grade AI solutions using Data Science, LLM Agents, and Rapid Prototyping.
 
-## 🏛️ The Problem
-Terms of Service (ToS) are intentionally designed to be unreadable. Most consumers unknowingly sign away class-action rights, data ownership, and privacy. **CLAUSE** uses agentic AI and mathematical benchmarking to scan these "legal traps" in under 2 seconds.
+---
 
-## 🛠️ The Tech Stack
-- **Engine:** Python 3.10
-- **Intelligence:** Groq Llama-3-70B (Low-latency inference)
-- **Data Science:** `scikit-learn` (Cosine Similarity benchmarking)
-- **Database:** Supabase (Postgres) for scan history & relational mapping
-- **Frontend:** Streamlit + PWA wrapper
+### 📊 Sprint Velocity Tracker
+| Project | Name | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **01** | [LexRisk]() | Python, Groq, Sklearn | 🟢 Building|
+| **02** | CHAIRFILL | FastAPI, OpenAI, Twilio | 🟡 BUILDING |
+| **03** | PULSE | Prophet, Plotly | ⚪ UPCOMING |
 
-## 📊 The "Scam Score" Logic
-Unlike generic AI, CLAUSE uses a dual-layer validation system:
-1. **Semantic Search:** Vectorizing the uploaded contract against a "Fair-Standard" dataset using **Cosine Similarity**.
-2. **Heuristic Analysis:** TF-IDF keyword density check for aggressive arbitration and data-licensing language.
+### 🛠️ The Foundry Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Groq](https://img.shields.io/badge/Inference-Groq-orange?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Quick Start
-```bash
-git clone [https://github.com/yourusername/clause.git](https://github.com/yourusername/clause.git)
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+### 🔗 Digital Footprint
+- **Live Hub:** [nehemiah.is-a.dev](https://nehemiah.is-a.dev)
+- **X (Twitter):** [Follow the Build](https://x.com/your-handle)
+- **LinkedIn:** [Professional Network](https://linkedin.com/in/your-handle)
+
+> *"We don't just ideate. We ship. 60 days of pure technical execution."*
