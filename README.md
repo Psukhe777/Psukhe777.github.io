@@ -1,27 +1,54 @@
-# ⚖️ LEXRISK | AI Legal Safety Gauge
-**Foundry Project 1/6 by [Babylon Technologies](https://nehemiah.is-a.dev)**
+# Babylon Technologies 🏛️
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Groq Llama-3](https://img.shields.io/badge/AI-Llama--3%20(Groq)-orange)](https://groq.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+> **"We build the infrastructure that the AI era is missing."**
 
-## 🏛️ The Problem
-Terms of Service (ToS) are intentionally designed to be unreadable. Most consumers unknowingly sign away class-action rights, data ownership, and privacy. **LEXRISK** uses agentic AI and mathematical benchmarking to scan these "legal traps" in under 2 seconds.
+---
 
-## 🛠️ The Tech Stack
-- **Engine:** Python 3.10
-- **Intelligence:** Groq Llama-3-70B (Low-latency inference)
-- **Data Science:** `scikit-learn` (Cosine Similarity benchmarking)
-- **Database:** Supabase (Postgres) for scan history & relational mapping
-- **Frontend:** Streamlit + PWA wrapper
+### 🚀 The Mission: 6 Products in 60 Days
+I am a Data Scientist and Founder currently executing a high-velocity **"Venture Sprint."**
+My goal is to build, ship, and monetize **6 production-grade AI products in 60 days.**
 
-## 📊 The "Scam Score" Logic
-Unlike generic AI, CLAUSE uses a dual-layer validation system:
-1. **Semantic Search:** Vectorizing the uploaded contract against a "Fair-Standard" dataset using **Cosine Similarity**.
-2. **Heuristic Analysis:** TF-IDF keyword density check for aggressive arbitration and data-licensing language.
+This isn't just a coding challenge; it's a stress test for modern AI infrastructure.
+- **Start Date:** February 16, 2026
+- **Status:** [██░░░░░░░░] (Day 1/60)
+- **Current Sprint:** **RiskLex** ⚖️
 
-## 🚀 Quick Start
-```bash
-git clone [https://github.com/yourusername/clause.git](https://github.com/yourusername/clause.git)
-pip install -r requirements.txt
-streamlit run app.py
+---
+
+### 🏗️ The Foundry (Portfolio)
+
+| Product | Vertical | Description | Status | Tech Stack |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. [RiskLex](https://github.com/nehemiahsturdivant/risklex)** | **Legal Tech** | AI Safety Gauge for finding "traps" in contracts. | 🚧 **BUILDING** | `Llama-3`, `FastAPI`, `Streamlit` |
+| **2. Chairfill** | **Health B2B** | Automated "Receptionist" to fill cancellation gaps. | ⏳ *Pending* | `Twilio`, `Python`, `Postgres` |
+| **3. Exit** | **SaaS / FinTech** | Churn Prediction Engine for subscription businesses. | ⏳ *Pending* | `XGBoost`, `SHAP`, `React` |
+| **4. Strike** | **Gaming** | Physics-based competitive mobile sports game. | ⏳ *Pending* | `Godot`, `C#`, `Firebase` |
+| **5. Rebound** | **EdTech** | Adaptive learning platform for professional exams (SIE). | ⏳ *Pending* | `Bayesian Tracing`, `React` |
+| **6. Halt** | **Wellness** | Behavioral intervention AI for screen addiction. | ⏳ *Pending* | `CoreML`, `Swift`, `Python` |
+
+---
+
+### 🧠 The Core Philosophy
+Babylon Technologies operates on a **"Zero-Inference"** principle:
+1.  **Data First:** We don't guess user intent; we measure it.
+2.  **Infrastructure as Code:** Every product is built to scale from Day 1.
+3.  **Speed is Safety:** In the AI era, shipping slow is the only risk.
+
+### 🛠️ The Arsenal (Tech Stack)
+* **Languages:** Python (Data Science), C (Low Level), JavaScript/TypeScript (Web), C# (Game Dev).
+* **AI/ML:** PyTorch, Scikit-Learn, Llama-3 (Groq), OpenAI API.
+* **Cloud:** Railway, AWS, Docker.
+* **Data:** PostgreSQL, Vector Databases (Pinecone/Chroma).
+
+---
+
+### 📡 Connect & Follow the Build
+I document the entire engineering and business process daily.
+
+- **X (Twitter):** [@YourHandle](https://x.com/) _(Daily "Build in Public" logs)_
+- **YouTube:** [Your Channel](https://youtube.com/) _(Deep dives into the code)_
+- **LinkedIn:** [Nehemiah Sturdivant](https://linkedin.com/in/) _(The business strategy)_
+- **Website:** [nehemiah.is-a.dev](https://nehemiah.is-a.dev)
+
+---
+*Babylon Technologies © 2026. Built by Nehemiah Sturdivant.*
