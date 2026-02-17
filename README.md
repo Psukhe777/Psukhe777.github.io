@@ -1,4 +1,4 @@
-# ⚖️ CLAUSE | AI Legal Safety Gauge
+# ⚖️ LEXRISK | AI Legal Safety Gauge
 **Foundry Project 1/6 by [Babylon Technologies](https://nehemiah.is-a.dev)**
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🏛️ The Problem
-Terms of Service (ToS) are intentionally designed to be unreadable. Most consumers unknowingly sign away class-action rights, data ownership, and privacy. **CLAUSE** uses agentic AI and mathematical benchmarking to scan these "legal traps" in under 2 seconds.
+Terms of Service (ToS) are intentionally designed to be unreadable. Most consumers unknowingly sign away class-action rights, data ownership, and privacy. **LEXRISK** uses agentic AI and mathematical benchmarking to scan these "legal traps" in under 2 seconds.
 
 ## 🛠️ The Tech Stack
 - **Engine:** Python 3.10
