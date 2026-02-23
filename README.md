@@ -20,7 +20,7 @@ This isn't just a coding challenge; it's a stress test for modern AI infrastruct
 | Product | Vertical | Description | Status | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. [RiskLex](https://github.com/nehemiahsturdivant/risklex)** | **Legal Tech** | AI Safety Gauge for finding "traps" in contracts. | 🚧 **BUILDING** | `Llama-3`, `FastAPI`, `Streamlit` |
-| **2. Chairfill** | **Health B2B** | Automated "Receptionist" to fill cancellation gaps. | ⏳ *Pending* | `Twilio`, `Python`, `Postgres` |
+| **2. Chairfill** | **Dental B2B** | Automated "Receptionist" to fill cancellation gaps. | ⏳ *Pending* | `Twilio`, `Python`, `Postgres` |
 | **3. Exit** | **SaaS / FinTech** | Churn Prediction Engine for subscription businesses. | ⏳ *Pending* | `XGBoost`, `SHAP`, `React` |
 | **4. Strike** | **Gaming** | Physics-based competitive mobile sports game. | ⏳ *Pending* | `Godot`, `C#`, `Firebase` |
 | **5. Rebound** | **EdTech** | Adaptive learning platform for professional exams (SIE). | ⏳ *Pending* | `Bayesian Tracing`, `React` |
