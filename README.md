@@ -17,7 +17,7 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 
 | Product | Vertical | Strategic Gap | Status | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
-| **01. [CLAUSE](https://lexrisk.streamlit.app)** ⚖️ | **Legal Tech** | Consumers need a "shield" against predatory fine print. | 🟢 **LIVE BETA** | `Llama-3`, `PyPDF2`, `Streamlit` |
+| **01. [Lexrisk](https://lexrisk.streamlit.app)** ⚖️ | **Legal Tech** | Consumers need a "shield" against predatory fine print. | 🟢 **LIVE BETA** | `Llama-3`, `PyPDF2`, `Streamlit` |
 | **02. RECALL** 📞 | **Dental B2B** | "Invisible SaaS" filling revenue gaps via automated SMS. | 🚧 **BUILDING** | `Twilio`, `FastAPI`, `Supabase` |
 |**03. EQUITY 📉**|	**FinTech**|	Predictive liquidity forecasting using Monte Carlo simulations.	|⏳ Pending|	Prophet, Python, Plotly `Webhooks` |
 | **04. EXIT** 💸 | **FinTech** | Logistic regression to quantify and prevent "Cost of Churn." | ⏳ *Pending* | `Scikit-Learn`, `Python`, `React` |
