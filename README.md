@@ -15,15 +15,18 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 
 ### 🏗️ The Foundry (Active Portfolio)
 
-| Product | Vertical | Strategic Gap | Status | Tech Stack |
-| :--- | :--- | :--- | :--- | :--- |
-| **01. [Lexrisk](https://lexrisk.streamlit.app)** ⚖️ | **Legal Tech** | Consumers need a "shield" against predatory fine print. | 🟢 **LIVE BETA** | `Llama-3`, `PyPDF2`, `Streamlit` |
-| **02. RECALL** 📞 | **Dental B2B** | "Invisible SaaS" filling revenue gaps via automated SMS. | Live 🟢| `Twilio`, `FastAPI`, `Supabase` |
-|**03. EQUITY 📉**|	**FinTech**|	Predictive liquidity forecasting using Monte Carlo simulations.	|Building 🚧|	Prophet, Python, Plotly `Webhooks` |
-| **04. EXIT** 💸 | **FinTech** | Logistic regression to quantify and prevent "Cost of Churn." | ⏳ *Pending* | `Scikit-Learn`, `Python`, `React` |
-| **05. ROOT** 📦 | **Logistics** | Root-cause analysis to reduce reverse logistics costs. | ⏳ *Pending* | `Simulation Modeling`, `RCA` |
-| **06. STRIKE** 🕹️ | **Gaming** | High-performance, zero-latency Godot web arcade. | ⏳ *Pending* | `Godot`, `C#`, `CGI/Animation` |
+## 🚀 active_deployment_board
 
+| ID | Product | Vertical | Strategic Gap | Status | Tech Stack |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | **LexRisk** ⚖️ | Legal Tech | One-click "shield" against predatory fine print. | `LIVE BETA` | Llama-3, PyPDF2 |
+| 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. | `LIVE` | FastAPI, Twilio |
+| 03 | **GUARDIAN** 🛡️ | Security | OS-level seatbelt for agentic code execution. | `BUILDING` | C++, ptrace |
+| 04 | **EX-NIHILO** 🧬 | Data Science | Infinite, statistically perfect fake training data. | `PENDING` | PyTorch, GANs |
+| 05 | **OBSIDIAN** ⬛ | Privacy | Palantir-grade mapping and data unlearning. | `PENDING` | Machine Unlearning |
+| 06 | **ORACLE** 🔮 | FinTech | Direct-to-fund consumer telemetry marketplace. | `PENDING` | Python, Plaid |
+| 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` | WebSockets |
+| 08 | **SWARM-STRIKER** ⚽ | AI eSports | Futbol simulator inspired by the 2026 world cup | `PENDING` | Godot, C# |
 ---
 
 ### 🧠 Core Philosophy: The Babylon Way
