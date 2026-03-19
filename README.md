@@ -24,7 +24,7 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 | 03 | **GUARDIAN** 🛡️ | Security | OS-level seatbelt for agentic code execution. | `BUILDING` | C++, ptrace |
 | 04 | **EX-NIHILO** 🧬 | Data Science | Infinite, statistically perfect fake training data. | `PENDING` | PyTorch, GANs |
 | 05 | **OBSIDIAN** ⬛ | Privacy | Palantir-grade mapping and data unlearning. | `PENDING` | Machine Unlearning |
-| 06 | **ORACLE** 🔮 | FinTech | Direct-to-fund consumer telemetry marketplace. | `PENDING` | Python, Plaid |
+| 06 | **data marketplaces**🔮 | FinTech | Direct-to-fund consumer data brokerage marketplace. | `PENDING` | Python, Plaid |
 | 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` | WebSockets |
 | 08 | **SWARM-STRIKER** ⚽ | AI eSports | Futbol simulator inspired by the 2026 world cup | `PENDING` | Godot, C# |
 ---
