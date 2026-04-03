@@ -33,7 +33,7 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 
 * **Velocity is the Only Metric:** In the AI era, shipping slow is the only terminal risk.
 * **From Rock Bottom to Production:** Every line of code is fueled by the resilience of a journey from homelessness to Data Science.
-* **Proprietary Data Moats:** Every "No" from a patient or "Red Flag" in a contract is logged to train our next generation of specialized models.
+
 
 ---
 
