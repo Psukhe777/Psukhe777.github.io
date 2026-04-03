@@ -22,7 +22,7 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 | 01 | **LexRisk** ⚖️ | Legal Tech | One-click "shield" against predatory fine print. | `LIVE BETA` | Llama-3, PyPDF2 |
 | 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. | `LIVE` | FastAPI, Twilio |
 | 03 | **GUARDIAN** 🛡️ | Security | OS-level seatbelt for agentic code execution. | `BUILDING` | C++, ptrace |
-| 04 | **EX-NIHILO** 🧬 | Data Science | Infinite, statistically perfect fake training data. | `PENDING` | PyTorch, GANs |
+| 04 | **EX-NIHILO** 🧬 | Data Science | real and synthethic data consultancy. | `PENDING` | PyTorch, GANs |
 | 05 | **OBSIDIAN** ⬛ | Privacy | Palantir-grade mapping and data unlearning. | `PENDING` | Machine Unlearning |
 | 06 | **SELLYOURDATA**🔮 | FinTech | Direct-to-fund consumer data brokerage marketplace. | `PENDING` | Python, Plaid |
 | 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` | WebSockets |
