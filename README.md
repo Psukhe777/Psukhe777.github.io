@@ -19,14 +19,14 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 
 | ID | Product | Vertical | Strategic Gap | Status | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | **LexRisk** ⚖️ | Legal Tech | One-click "shield" against predatory fine print. | `LIVE BETA` | Llama-3, PyPDF2 |
-| 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. | `LIVE` | FastAPI, Twilio, Resend |
+| 01 | **LexRisk** ⚖️ | Legal Tech | One-click "shield" against predatory fine print. | `LIVE BETA` | Llama-3, gpt 4-0 miniPyPDF2 |
+| 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. | `LIVE` | FastAPI, , Resend |
 | 03 | **GUARDIAN** 🛡️ | Security | OS-level seatbelt for agentic code execution. | `BUILDING` | C,Rust,Python ptrace |
 | 04 | **EX-NIHILO** 🧬 | Data Science | real and synthethic data consultancy. | `PENDING` | PyTorch, GANs |
 | 05 | **OBSIDIAN** ⬛ | Privacy | Palantir for privacy. | `PENDING` | 33 vector cybersecurity tool |
-| 06 | **SELLYOURDATA**🔮 | FinTech | Direct-to-fund consumer data brokerage marketplace. | `PENDING` | Python, Plaid |
-| 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` | WebSockets |
-| 08 | **SWARM-STRIKER** ⚽ |  eSports | Futbol simulator inspired by the 2026 world cup | `PENDING` | Javascript, 2D gaming|
+| 06 | **SELLYOURDATA**🔮 | FinTech | Direct-to-fund consumer data brokerage marketplace. | `PENDING` | Python,  |
+| 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` |Lua, WebSockets,2d animation|
+| 08 | **SWARM-STRIKER** ⚽ |  eSports | Futbol simulator inspired by the 2026 world cup | `PENDING` | C++, Godot 2D gaming|
 ---
 
 ### 🧠 Core Philosophy: The Babylon Way
