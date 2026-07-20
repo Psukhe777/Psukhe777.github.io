@@ -1,17 +1,8 @@
-# 🏛️ Babylon Technologies: The 60-Day Venture Sprint
+# 🏛️ Babylon Technologies: 
+
 
 > **"Building the Future in Public. No Fluff. Just Code."**
 
-I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: building, shipping, and monetizing **6 production-grade AI products in 60 days**. We don't just build apps; we build a central intelligence engine and deploy industry facades to prove that velocity and craft belong to the individual builder.
-
----
-
-### 🚀 Sprint Status: [████░░░░░░] (Day 60 / 60)
-* **Start Date:** February 16, 2026
-* **Active Build: Guardian (Project 03)
-* **Mission Goal:** 6 Startups. 60 Days. 1 Builder. 0 Fluff.
-
----
 
 ### 🏗️ The Foundry (Active Portfolio)
 
@@ -20,19 +11,10 @@ I am a **Data Scientist and Founder** executing an elite **Venture Sprint**: bui
 | ID | Product | Vertical | Strategic Gap | Status | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | **LexRisk** ⚖️ | Legal Tech | One-click "shield" against predatory fine print. | `LIVE BETA` | Llama-3, gpt 4-0 miniPyPDF2 |
-| 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. | `LIVE` | FastAPI, , Resend |
+| 02 | **RECALL** 📞 | Health B2B | Automated revenue recovery for clinical gaps. |Python, Supabase, FastAPI, , Resend |
 | 03 | **GUARDIAN** 🛡️ | Security | OS-level seatbelt for agentic code execution. | `BUILDING` | C,Rust,Python ptrace |
-| 04 | **EX-NIHILO** 🧬 | Data Science | real and synthethic data consultancy. | `PENDING` | PyTorch, GANs |
-| 05 | **OBSIDIAN** ⬛ | Privacy | Palantir for privacy. | `PENDING` | 33 vector cybersecurity tool |
-| 06 | **SELLYOURDATA**🔮 | FinTech | Direct-to-fund consumer data brokerage marketplace. | `PENDING` | Python,  |
-| 07 | **ECHO-CHAMBER** 📢 | Gaming | A viral simulator that represents real world events and characters in a satircal way| `PENDING` |Lua, WebSockets,2d animation|
-| 08 | **SWARM-STRIKER** ⚽ |  eSports | Futbol simulator inspired by the 2026 world cup | `PENDING` | C++, Godot 2D gaming|
----
+| 04 | **EX-NIHILO** 🧬 | Data Science | real and synthethic data consultancy. | `PENDING` |
 
-### 🧠 Core Philosophy: The Babylon Way
-
-* **Velocity is the Only Metric:** In the AI era, shipping slow is the only terminal risk.
-* **From Rock Bottom to Production:** Every line of code is fueled by the resilience of a journey from homelessness to Data Science.
 
 
 ---
@@ -55,15 +37,5 @@ I am a **Data Science student (Class of Oct 2026)** documenting every commit in 
 * **LinkedIn:** [Nehemiah Sturdivant] — *Business Strategy*
 * **GitHub:** [Psukhe777] — *The Receipts*
 
----
-
-### 💰 Pricing Tiers (Product 01)
-| Tier | Price | Features |
-| :--- | :--- | :--- |
-| **Free** | **$0** | 3 PDF analyses/day, 5 pages per PDF, Unlimited text paste. |
-| **Pro** | **$9/mo** | 50 PDF analyses/day, 20 pages per PDF, Export results. |
-| **Business** | **$29/mo** | Unlimited PDFs/pages, API access, Team sharing. |
-
----
 
 *Babylon Technologies © 2026. Built by Nehemiah Sturdivant.*
